@@ -1,4 +1,6 @@
-<img width="305" height="265" alt="Screenshot 2026-02-17 at 7 56 06 PM" src="https://github.com/user-attachments/assets/44863ac5-f517-4d46-9816-bac2101d1754" align="center" />
+<p align="center">
+<img width="305" height="265" alt="Screenshot 2026-02-17 at 7 56 06 PM" src="https://github.com/user-attachments/assets/44863ac5-f517-4d46-9816-bac2101d1754" />
+</p>
 <h2 align="center"><strong>WalletFlow</strong></h2>
 
 WalletFlow is intended to help users manage their personal finance through methods that consist of tracking income and expenses, financial goal planning and others. The web app is built with a focus on the accessibility and security of data while maintaining a simple and scalable user interface. It does this by utilizing MySQL for database management, AJAX and JSON for dynamic user interactions with the website. Ajax specifically for functions like logIncome to happen in real time without requiring the page to reload. JSON for data exchange between the client and server. The application is built with the Model-View-Controller Architecture where the model handles the interactions with the database. These interactions are the different functions that will be called in the controller. For this web app, some example functions will be inserting, deleting, editing the transaction database table, logging a user’s expense and income. The View would contain the forms that when submitted, add the data to the database. Forms will be used for user authentication, and transaction insertions. Functions in the model will be called in the controller when these forms are submitted. It also represents the different displays and the user interface. The controller handles the user requests and data is processed and passed between the model and view.
@@ -35,8 +37,9 @@ Overall, the goal of the app is to adhere to the project specifications but more
 -	The profile picture once hovered shows the options to change the user profile
 -	The menu button once hovered shows the options to add, update or delete.
 -	When the breakdown buttons are clicked, it displays the table in the corresponding div element.
+  <p align="center">
    <img width="468" height="293" alt="image" src="https://github.com/user-attachments/assets/4e3a089a-0d5e-4f63-bb82-631a44692f92" />
-
+  </p>
 
 ### Sign in/ Sign out
 -	This page contains the sign up and sign in forms as well as buttons to switch between the two. Name of the web app is displayed at the top with a welcome message.
